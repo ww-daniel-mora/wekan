@@ -20,6 +20,7 @@
 if (Meteor.isServer) {
   describe('server', function() {
     import '../server/lib/tests/utils.tests';
+    import '../server/lib/tests/secretsReader.tests';
   });
 }
 

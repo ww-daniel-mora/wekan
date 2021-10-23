@@ -17,7 +17,8 @@
     "chai": "^4.3.4",
     "flatted": "^3.2.2",
     "puppeteer": "^10.2.0",
-    "sinon": "^11.1.2"
+    "sinon": "^11.1.2",
+    "tempy": "^2.0.0"
   },
   "dependencies": {
     "@babel/core": "^7.15.0",
